@@ -1,0 +1,7 @@
+apple
+blackberry
+cherry
+fig
+grape
+melon
+pear
